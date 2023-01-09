@@ -1,0 +1,515 @@
+#top{
+    width:100%;
+    height:60px;
+    background-color: rgb(237, 196, 143);
+}
+#top p{ 
+    font-family: Impact;
+    color: rgb(169, 111, 10);  
+    font-size: 50px;
+    margin-left:60px;
+    margin-top:0px;
+}
+.gallery{
+    width: 100%; 
+    height: 1000px;
+}
+.gallery img#a1 {
+    margin-left: 400px;
+    box-shadow: 0px 10px 30px 0px rgb(224, 201, 145); 
+    width: 550px;
+    height: 600px;
+    margin-top: 50px;
+}
+.gallery img#a2  {
+    vertical-align: super;
+    padding:100px;
+    margin-left: -70px;
+    width: 300px;
+    height: 400px;
+    }
+
+.gallery img#a3 {
+    /*vertical-align: super;*/
+    padding:160px;
+    margin-left: -230px;
+    width: 250px;
+    height: 300px;
+    }
+#a4{
+    margin-left: 1050px;
+    z-index:2;
+    margin-top: -55px;
+}
+
+.gallery .blank{
+    width: 1200px;
+    height: 700px;
+    margin-top:-650px;
+    float: right;
+    background-color:rgb(244, 190, 124);
+}
+.gallery .text{
+    font-family: Impact;
+    color: rgb(169, 111, 10); 
+    font-size: 70px;
+    margin-left: 400px;
+    margin-top: -285px;
+}
+
+.gallery .text p{
+    font-size: 20px;
+    color: rgb(6, 6, 2);
+    font-family: Comic Sans MS;
+    width: 580px;
+}
+#div {
+    height: 500px;
+    width: 100%;
+    margin-top: 200px;
+}
+.text1{
+    width: 400px;
+    height:400px;
+    background-color:rgb(244, 190, 124);
+    margin-left: 225px;
+    letter-spacing: .2rem;
+    margin-top: -100px;
+}
+.text1 img{
+    width: 130px;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.text1 h2{
+    font-family: Impact;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 120px;
+    color: rgb(169, 111, 10); 
+}
+.text1 p{
+    text-align: center;
+    padding: 10px;
+    font-family: Comic Sans MS;
+}
+.text2{
+    width: 400px;
+    height:400px;
+    background-color:rgb(244, 190, 124);
+    margin-left: 700px;
+    margin-top: -400px;
+    font-family: Impact;
+    letter-spacing: .2rem;
+    
+}
+.text2 h2{
+    font-family: Impact;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 120px;
+    color: rgb(169, 111, 10); 
+}
+.text2 img{
+    width: 130px;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.text2 p{
+    text-align: center;
+    padding: 10px;
+    font-family: Comic Sans MS;
+}
+.text3{
+    width: 400px;
+    height:400px;
+    background-color:rgb(244, 190, 124);
+    margin-left: 1175px;
+    margin-top: -400px;
+    letter-spacing: .2rem;
+  
+    }
+.text3 img{
+    width: 130px;
+    height: 130px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.text3 h2{
+    font-family: Impact;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 120px;
+    color: rgb(169, 111, 10); 
+    }
+.text3 p{
+        text-align: center;
+        padding: 10px;
+        font-family: Comic Sans MS;
+    }
+    #b1 {
+     padding-top: 130px;
+     width: 60%;
+     background-color: rgb(244, 190, 124);
+     float: right;
+     height: 350px;
+    }
+    #c1{
+        width: 300px;
+        height: 300px;
+        margin-top: 100px;
+        margin-left: 250px;
+    }
+    #c1 img{
+        width: 300px;
+        height: 300px;
+    }
+    #c2{
+        width: 300px;
+        height: 300px;
+        background-color: white;  
+        margin-top: -300px;
+        margin-left: 550px;
+        z-index: 1;
+        position:absolute;
+        font-family: Impact;
+    }
+    #c2 h2{
+        font-family: Impact;
+        color: rgb(169, 111, 10);  
+        font-size: 30px;
+        padding-left: 60px;
+    }
+    #c2 p{
+        text-align: center;
+        padding: 10px;
+        font-family: Comic Sans MS;
+        margin-top: -5px;
+    }
+    
+    #c3{
+        width: 300px;
+        height: 300px;
+        margin-top: -300px;
+        margin-left: 850px;
+        position:absolute;
+    }
+    #c3 img{
+        width: 300px;
+        height: 300px;
+    }
+    #c4{
+        width: 300px;
+        height: 300px;
+        background-color:white ;  
+        margin-top: -300px;
+        margin-left: 1150px;
+        position:absolute;
+        
+    }
+    #c4 h2{
+        font-family: Impact;
+        color: rgb(169, 111, 10);  
+        font-size: 30px;
+        padding-left: 60px;
+    }
+    #c4 p{
+        text-align: center;
+        padding: 10px;
+        font-family: Comic Sans MS;
+    }
+    #d1{
+        padding-top: 180px;
+    }
+    #d1 h2{
+        text-align: center;
+        font-family: Impact;
+        font-size: 60px;
+        color:rgb(169, 111, 10); 
+    }
+    #d1 p{
+        text-align: center;
+        font-size: 20px;
+        color:  black;
+        font-family:Comic Sans MS;
+        margin-left: 260px;
+        margin-right: 260px;
+
+    }
+    .e1{
+        width: 100%;
+        height: 1000px;
+    }
+    .e1 #e2{
+        margin-left: 58%;
+        width: 450px;
+        height: 700px;
+        background-color: rgb(244, 190, 124); 
+        margin-top:-250px;
+    }
+    .e1 #f1{
+            width: 500px;
+            height: 600px;
+            margin-left: 200px;
+            padding-top: 100px;
+    }
+    .e1 #f2{
+        width: 300px;
+        height: 350px;
+        margin-left: -150px;
+        padding-bottom: 50px ;
+    }
+    .e1 #f3{
+        width: 400px ;
+        height: 500px ;
+        margin-left: 50px;
+        margin-bottom: -220px;
+    }
+     #e3 {
+        font-size: 20px;
+        font-family:Comic Sans MS;
+        width: 500px;
+        height:200px;
+        color: black; 
+        padding-left: 900px;
+        margin-top: -530px;
+    }
+    #e4 h2{
+        margin-left: 200px;
+        margin-top: -270px;
+        font-size: 45px;
+        font-family: Impact;
+        color:rgb(169, 111, 10); ;
+    }
+    #e4 p{
+          margin-left: 200px;
+          margin-top: -20px;
+          width: 500px;
+          font-size: 20px;
+          font-family:Comic Sans MS;
+          color: black ;
+    }
+    #g1{
+        margin-left: 35%;
+        margin-top: -950px;
+        background-color:  rgb(244, 190, 124); 
+        width: 50%;
+        height: 600px;
+    }
+    .a{
+        width: 100%;
+        height:1000px;
+    }
+    .a #h1{
+        margin-left: 20%;
+        padding-bottom: 450px;
+        width: 500px;
+        height: 400px;
+    }
+    .a  #h2{
+        margin-left: 50px;
+        padding-top: 450px;
+        width: 500px;
+        height: 550px 
+    }
+    .a h2{
+        font-size: 85px;
+        color:rgb(169, 111, 10);
+        font-family: Impact;
+        margin-top: -500px;
+        margin-left: 52%;
+    }
+    .a h3{
+        font-size: 60px;
+        color:rgb(169, 111, 10);
+        font-family: Impact;
+        margin-top: 300px;
+        margin-left: 20%;
+    }
+    .a p{
+        width: 500px;
+        font-family: Comic Sans MS;
+        margin-left: 20%;
+        font-size: 18px;
+    }
+    .i1{
+        margin-top: 170px;
+        width: 80%;
+        height: 350px;
+        background-color:  rgb(244, 190, 124); 
+    }
+    #i2{
+        margin-top: -300px;
+        margin-left: 15%;
+        background-color: rgb(169, 111, 10); 
+        position: absolute;
+        height: 400px;
+        width: 400px;
+    }
+    #i3{
+        margin-top: -250px;
+        margin-left: 19%;
+        background-color: white;
+        position: absolute;
+        height: 400px;
+        width: 400px;
+    }
+    #i3 h2{
+        font-family: Impact;
+        font-size: 30px;
+        margin-left: 40px;
+        color: rgb(169, 111, 10); 
+    }
+    #i3 p{
+        text-align: center;
+        font-size: 15px;
+        font-family: Comic Sans MS;
+        padding: 10px;
+    }
+    #i4{
+        margin-top: -200px;
+        margin-left: 49%;
+        background-color: rgb(169, 111, 10); 
+        position: absolute;
+        height: 400px;
+        width: 400px;
+    }
+    #i5{
+        margin-top: -250px;
+        margin-left: 45%;
+        background-color: white;
+        position: absolute;
+        height: 400px;
+        width: 400px;
+    }
+    #i5 h2{
+        font-family: Impact;
+        font-size: 30px;
+        margin-left: 40px;
+        color: rgb(169, 111, 10); 
+    }
+    #i5 p{
+        text-align: center;
+        font-size: 15px;
+        font-family: Comic Sans MS;
+        padding: 10px;
+    }
+    .j1{
+        width: 60%;
+        height: 350px;
+        margin-top: 300px;
+        background-color:  rgb(244, 190, 124); 
+        float: right;
+    }
+    #j2{
+        width: 600px;
+        height: 650px;
+        margin-top: 350px;
+        margin-left: 50%;
+        position: absolute;
+    }
+    #j3{
+        background-color: rgb(169, 111, 10); 
+        height: 650px;
+        width: 600px;
+        margin-left: 54%;
+        margin-top: 400px;
+        position:absolute;
+    }
+    #j4 h2{
+        font-family: Impact;
+        font-size: 50px;
+        margin-left: 15%;
+        color: rgb(169, 111, 10); 
+        margin-top: 450px;
+    }
+    #j4 p{
+        text-align: left;
+        font-size: 20px;
+
+        margin-left: 15%;
+        margin-top: -20px;
+        width: 300px;
+    }
+    #j4 h3{
+        margin-left: 15%;
+        font-size: 20px; 
+        font-family: Comic Sans MS;
+    }
+    #j5{
+        margin-left: 13%;
+        font-size: 25px;
+        font-family: Comic Sans MS;
+        color: rgb(169, 111, 10); 
+    }
+    form  input[type=submit]{
+         background-color:   rgb(244, 190, 124); 
+         width: 200px;
+         height: 50px;
+         font-size: 30px;
+         }
+    #j6{
+         width: 100%;
+         height:250px;
+         background-color: rgb(78, 53, 23);
+         margin-top: 100px;
+    }
+     #j6 h1 {
+        font-size: 30px;
+        font-family: Impact;
+        color: rgb(241, 241, 241) ;
+        margin-left: 16%;
+        padding-top: 60px;
+    }
+    #j6 #k1{
+        font-size: 16px;
+        color: rgb(244, 190, 124); 
+        font-family: Comic Sans MS;
+        width: 300px;
+        margin-left: 13%;
+    }
+    #j6 h2{
+        font-size: 30px;
+        font-family: Impact;
+        color:  rgb(241, 241, 241) ;
+        margin-left: 47%;
+        margin-top: -158px; 
+           
+    }
+    #k2{
+        font-size: 16px;
+        color: rgb(244, 190, 124); 
+        font-family: Comic Sans MS;
+        width: 300px;
+        margin-left: 47%;
+        margin-top: 15px;
+    }
+    #k4 {
+        font-size: 30px;
+        font-family: Impact;
+        color:  rgb(241, 241, 241) ; 
+        margin-left: 1350px;
+        margin-top: -95px;
+    }
+    #k3{
+            margin-top: 15px;
+            font-size: 16px;
+            color: rgb(244, 190, 124); 
+            font-family: Comic Sans MS;
+            width: 300px;
+            margin-left: 1350px;
+    }
+    #j7{
+        width:100%;
+        height:100px;
+        background-color: black;
+        margin-top: 0px;
+    }
+     #k6{
+        font-size: 18px;
+        color: rgb(244, 190, 124); 
+        margin-top: -50px;
+        text-align: center;
+    }
